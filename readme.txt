@@ -56,7 +56,10 @@ No, you can't. It is considered spam! Please, use one of the options provided by
 Release date: 4 May 2017
 
 * Enhancement: Added resources in plugin options page
+* Enhancement: Added icon menu
+* Enhancement: Changed menu plugin name
 * Bug Fix:     Impossible deleting fields
+
 
 = 1.01 = 
 
