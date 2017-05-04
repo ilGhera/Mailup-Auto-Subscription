@@ -41,7 +41,7 @@ function mas_options() {
 	echo '<div class="wrap">'; 
 		echo '<div class="wrap-left" style="float:left; width:70%;">';
 
-			echo '<h1>MailUp Auto Subscribtion<span style="font-size:60%;"> 1.1.0</span></h1>';
+			echo '<h1>MailUp Auto Subscription<span style="font-size:60%;"> 1.1.0</span></h1>';
 			echo '<p>' . __('Register your users to MailUp in the same time they subscribe to your site.', 'mas-lang') . '<br>' .
 			__('Enter the Host of your console, choose the list and if necessary the group created in MailUp, nothing else.', 'mas-lang') . '<br></p>';
 
